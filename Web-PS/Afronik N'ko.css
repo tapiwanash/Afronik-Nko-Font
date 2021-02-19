@@ -1,0 +1,9 @@
+/* Webfont: AfronikNko-Regular */@font-face {
+    font-family: 'AfronikN'ko';
+    src: url('Afronik N'ko v2.woff2') format('woff2'), /* Modern Browsers */
+         url('Afronik N'ko v2.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

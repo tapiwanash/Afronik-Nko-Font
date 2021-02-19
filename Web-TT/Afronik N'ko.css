@@ -1,0 +1,11 @@
+/* Webfont: AfronikNko-Regular */@font-face {
+    font-family: 'AfronikN'ko';
+    src: url('Afronik N'ko v2.eot'); /* IE9 Compat Modes */
+    src: url('Afronik N'ko v2.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Afronik N'ko v2.woff') format('woff'), /* Modern Browsers */
+         url('Afronik N'ko v2.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
